@@ -211,7 +211,7 @@ Transform:
   - {fileID: 1460925955060356115}
   - {fileID: 4775449767436775953}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &7469761855274407561
 SpriteRenderer:
@@ -370,8 +370,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cdc15cc07442a483b8e8d829d021a568, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  inicioX: -1.99
-  inicioY: -0.94
+  inicioX: 1
+  inicioY: 3
 --- !u!82 &3146952140314356423
 AudioSource:
   m_ObjectHideFlags: 0
