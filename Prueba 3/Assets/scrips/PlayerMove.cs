@@ -15,11 +15,14 @@ public class PlayerMove : MonoBehaviour
     public float inicioY = 0f;
     private bool appearingActive = true;
 
+    
+
     void Start()
     {
         rb2d = GetComponent<Rigidbody2D>();
         sR = GetComponent<SpriteRenderer>();
         ani = GetComponent<Animator>();
+      
     }
 
     // Update is called once per frame

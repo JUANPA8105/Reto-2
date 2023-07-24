@@ -1,0 +1,1143 @@
+fileFormatVersion: 2
+guid: abce67a828d1b4f6bb7e9bad2ff23585
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_0
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 220
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd899b916fe04f4989ce17c27e84511
+      internalID: -1620974553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_1
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 220
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4705660d88cf7474e83f8598d7dd53ad
+      internalID: 631984439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_2
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 220
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47331bdb612fc4d4881257cb945f8742
+      internalID: -1869858925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_3
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 220
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078cfdc8302a34173abfad5d44d303cf
+      internalID: 34231008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_4
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 220
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826284691d3894deb83c3a1492959710
+      internalID: -1317823329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 221
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbdf74665fdd43dd8b882049cbb4dc9
+      internalID: -514470656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 222
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cdea6d6b6fb4d678909e824e78e3be
+      internalID: -1126445292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_7
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 221
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174955abdd0e445aba1fd0acce801be5
+      internalID: 87410979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_8
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 220
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c527b3de3c7e4e6985af1564dd85775
+      internalID: -1091041509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_9
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 36
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6eb61417a39a448ba4728ff4ad2d4f9
+      internalID: 1427769213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_10
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 36
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143d0840948954d61811252d4579cc5e
+      internalID: 172874597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_11
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 36
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3b3c8d663db4a6a8d27ec779ce1222
+      internalID: -466207584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_12
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 38
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0744906a1518c4bfe8d4064002f29c8f
+      internalID: 181778855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_13
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 36
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13ce549802ba42a78cfc6f31ee41fc1
+      internalID: -1681930087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_14
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 36
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74022fe466eb4610b0f32a87f983a97
+      internalID: -1276905048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_15
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 36
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02132c8e93394936a0e10656f2125ed
+      internalID: 57615077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_16
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 36
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cf1e871856b4a049b581010c2ceb9e
+      internalID: 2143903674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 36
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bbca5465a3e4591bc072e697626011
+      internalID: 1134143164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_18
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 400
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e7be1d03f554fc39331f0bbc91ad34
+      internalID: 194162837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_19
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 400
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef47cdb3d8b44fe588615f72f69a6a8
+      internalID: -1647334137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_20
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 401
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe69a9058e79f459794ada458031d236
+      internalID: -1471861008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_21
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 400
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2d08a6c8c3d4a508e1d52b37980a4f
+      internalID: 741935463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_22
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 400
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec7a80e1003c476b8e083d586c0c938
+      internalID: 1502005525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_23
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 401
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960b176fc79f44368b926d0e754e5140
+      internalID: -735454178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_24
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 400
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cb31f23be59421aa72edfa70217367
+      internalID: -395155326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_25
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 401
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4128eb19c5dbc4a9c8677e9b6a733106
+      internalID: 701467586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_26
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 402
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ddb9d7968c9458ca9f3d85b0dd972a
+      internalID: -1740852862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_27
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 582
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef39b39f69710452cab161a23a99e30c
+      internalID: -1282929713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_28
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 581
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72e20fc2cf8143328002d6e1a19d15c
+      internalID: -1810662062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_29
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 580
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261ecf341afcb41c4b255a1ee3ddd11b
+      internalID: 1337057809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_30
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 582
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52490da534f39408281238e09a7b2d74
+      internalID: 1627541105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_31
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 582
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fdfda1508bc4b48a48bc7c84144c4d
+      internalID: 1257830431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_32
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 581
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b3d060047dc41ac94ebffad530f8f7
+      internalID: 1470809250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_33
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 581
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04663fcfda36d4d219f73a70248152a3
+      internalID: 1328491386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_34
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 580
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6d4b087d27948ff9288e1545cfb73e
+      internalID: 699962096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_35
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 580
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e205a1fadd9504d898882ec61c6a2093
+      internalID: -1562415985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_36
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 763
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79694da742f14c6595f77284a6b89db
+      internalID: -1530337930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_37
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 763
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb78d91df32194088b19a72f303441a6
+      internalID: 1833700320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_38
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 764
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68984cb8a3db425390cb27a9503acdd
+      internalID: 629528241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_39
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 764
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4644aa9b459c94af890561a69c7d8a75
+      internalID: 1514581041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_40
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 763
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7666867d2affd48eab687f16a93ea801
+      internalID: -1284939415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_41
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 764
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed1caca878da4f06bf94035e3b6d0b0
+      internalID: 1384268284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_42
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 763
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382591bead63d48b1901311470639e99
+      internalID: -1287741649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_43
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 764
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0b6a421bfdd4560b7a3a0864af9969
+      internalID: 566165458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicEraser_230723_212515_44
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 764
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fd22cf0c19f42f3874c0107ce7e7c6
+      internalID: -1517061094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MagicEraser_230723_212515_0: -848457761
+      MagicEraser_230723_212515_1: -1105645648
+      MagicEraser_230723_212515_10: 1040706564
+      MagicEraser_230723_212515_11: -301636222
+      MagicEraser_230723_212515_12: -220219958
+      MagicEraser_230723_212515_13: -1499236714
+      MagicEraser_230723_212515_14: -957247346
+      MagicEraser_230723_212515_15: -583623100
+      MagicEraser_230723_212515_16: -1005481097
+      MagicEraser_230723_212515_17: 1763300792
+      MagicEraser_230723_212515_18: 217750424
+      MagicEraser_230723_212515_19: 1164191719
+      MagicEraser_230723_212515_2: 877598793
+      MagicEraser_230723_212515_20: 1856913998
+      MagicEraser_230723_212515_21: -1303637177
+      MagicEraser_230723_212515_22: -694345030
+      MagicEraser_230723_212515_23: -1367706614
+      MagicEraser_230723_212515_24: -1082750902
+      MagicEraser_230723_212515_25: -1205707084
+      MagicEraser_230723_212515_26: -728876464
+      MagicEraser_230723_212515_27: 2038720602
+      MagicEraser_230723_212515_28: -664514781
+      MagicEraser_230723_212515_29: -1321448581
+      MagicEraser_230723_212515_3: 1714622782
+      MagicEraser_230723_212515_30: -1106954411
+      MagicEraser_230723_212515_31: 1448864188
+      MagicEraser_230723_212515_32: -1581679289
+      MagicEraser_230723_212515_33: 927708819
+      MagicEraser_230723_212515_34: 1156235797
+      MagicEraser_230723_212515_35: -228749111
+      MagicEraser_230723_212515_36: -883665050
+      MagicEraser_230723_212515_37: 1804216812
+      MagicEraser_230723_212515_38: -1141162934
+      MagicEraser_230723_212515_39: 1678045361
+      MagicEraser_230723_212515_4: -183613755
+      MagicEraser_230723_212515_40: -1793615760
+      MagicEraser_230723_212515_41: -434474476
+      MagicEraser_230723_212515_42: -152872087
+      MagicEraser_230723_212515_43: 1918511650
+      MagicEraser_230723_212515_44: 1427518539
+      MagicEraser_230723_212515_5: -362256116
+      MagicEraser_230723_212515_6: -302270559
+      MagicEraser_230723_212515_7: -592969526
+      MagicEraser_230723_212515_8: -1063227861
+      MagicEraser_230723_212515_9: -2056941736
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
