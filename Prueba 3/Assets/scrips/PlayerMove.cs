@@ -15,20 +15,17 @@ public class PlayerMove : MonoBehaviour
     public float inicioY = 0f;
     private bool appearingActive = true;
 
-    
-
     void Start()
     {
         rb2d = GetComponent<Rigidbody2D>();
         sR = GetComponent<SpriteRenderer>();
         ani = GetComponent<Animator>();
-      
     }
 
     // Update is called once per frame
     void Update()
     {
-        gameObject.transform.rotation = new Quaternion(0,0,0,0);
+        gameObject.transform.rotation = new Quaternion(0, 0, 0, 0);
         if (appearingActive)
         {
             Appering();
@@ -37,7 +34,7 @@ public class PlayerMove : MonoBehaviour
         {
             HorizontalController();
             JumpController();
-        } 
+        }
         else if (DamagePlayer.damageSignal == true)
         {
             Appering();
@@ -57,7 +54,7 @@ public class PlayerMove : MonoBehaviour
             {
                 sR.flipX = false;
             }
-        } 
+        }
         else
         {
             ani.SetBool("Run", false);
@@ -100,7 +97,7 @@ public class PlayerMove : MonoBehaviour
             gameObject.transform.GetChild(0).gameObject.SetActive(false);
             appearingActive = false;
             DamagePlayer.damageSignal = false;
-            //DamagePlayer.Lesslife();
+            DamagePlayer.Lesslife();
         }
     }
 }
