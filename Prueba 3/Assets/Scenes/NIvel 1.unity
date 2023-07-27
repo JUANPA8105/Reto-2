@@ -2596,7 +2596,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -93, y: -104}
+  m_AnchoredPosition: {x: -93, y: 0}
   m_SizeDelta: {x: 89.8188, y: 89.8188}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &667275971
@@ -12226,11 +12226,11 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 0.054350093, y: 2.0652618}
-      - {x: -3.7772613, y: 2.0699599}
-      - {x: -3.7727005, y: -2.0481992}
-      - {x: 3.5553002, y: -2.0699391}
-      - {x: 3.5489907, y: 2.05909}
+    - - {x: 0.060220197, y: 2.352897}
+      - {x: -3.6011581, y: 2.3693352}
+      - {x: -3.5715854, y: -1.8774408}
+      - {x: 7.073919, y: -1.8724284}
+      - {x: 7.0651817, y: 2.3643355}
   m_UseDelaunayMesh: 0
 --- !u!4 &1642828789
 Transform:
