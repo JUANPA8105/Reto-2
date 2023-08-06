@@ -21,7 +21,7 @@ public class Meta : MonoBehaviour
         if (isClear == true)
         {
             timeAcum += Time.deltaTime;
-            if (timeAcum > 5)
+            if (timeAcum > 2)
             {
                 SceneManager.LoadScene(tagScene);
             }
