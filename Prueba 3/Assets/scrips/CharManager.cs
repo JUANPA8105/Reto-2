@@ -6,9 +6,6 @@ public class CharManager : MonoBehaviour
 {
     private int newCharID = 0;
     public static int charID = 0;
-
-    public static int User { get; internal set; }
-
     public void changeRCharID()
     {
         if (newCharID == gameObject.transform.childCount - 1)
