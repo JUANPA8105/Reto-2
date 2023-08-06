@@ -4667,8 +4667,8 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 397db7653909f7446a4c7a86a5bbe59d, type: 3}
-<<<<<<< Updated upstream
-=======
+
+
 --- !u!1 &821259233
 GameObject:
   m_ObjectHideFlags: 0
@@ -4775,7 +4775,7 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
->>>>>>> Stashed changes
+
 --- !u!1001 &841342564
 PrefabInstance:
   m_ObjectHideFlags: 0
