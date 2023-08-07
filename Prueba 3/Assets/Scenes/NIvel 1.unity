@@ -354,7 +354,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &70640181
 Transform:
   m_ObjectHideFlags: 0
@@ -6928,6 +6928,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 70640181}
     m_Modifications:
+    - target: {fileID: 774250200856808010, guid: 26dfd6c8231f24dc29c43a75a818935f, type: 3}
+      propertyPath: inicioX
+      value: -3.031677
+      objectReference: {fileID: 0}
+    - target: {fileID: 774250200856808010, guid: 26dfd6c8231f24dc29c43a75a818935f, type: 3}
+      propertyPath: inicioY
+      value: -0.2676861
+      objectReference: {fileID: 0}
     - target: {fileID: 4513010559517058342, guid: 26dfd6c8231f24dc29c43a75a818935f, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -8539,6 +8547,14 @@ PrefabInstance:
     - target: {fileID: 6232858919897119497, guid: e2c8949ef649042f795cb3271220037d, type: 3}
       propertyPath: m_Name
       value: fierceTooth
+      objectReference: {fileID: 0}
+    - target: {fileID: 7302102254140274009, guid: e2c8949ef649042f795cb3271220037d, type: 3}
+      propertyPath: inicioX
+      value: -3.031677
+      objectReference: {fileID: 0}
+    - target: {fileID: 7302102254140274009, guid: e2c8949ef649042f795cb3271220037d, type: 3}
+      propertyPath: inicioY
+      value: -0.2676861
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20275,6 +20291,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: crabby
       objectReference: {fileID: 0}
+    - target: {fileID: 5143477731743755752, guid: baec448da009247a4a012e6da6aac679, type: 3}
+      propertyPath: inicioX
+      value: -3.031677
+      objectReference: {fileID: 0}
+    - target: {fileID: 5143477731743755752, guid: baec448da009247a4a012e6da6aac679, type: 3}
+      propertyPath: inicioY
+      value: -0.2676861
+      objectReference: {fileID: 0}
     - target: {fileID: 5983042616655395848, guid: baec448da009247a4a012e6da6aac679, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -22259,6 +22283,14 @@ PrefabInstance:
     - target: {fileID: 3146952140314356423, guid: 232afebed8c2e40cbb8966a84790c20a, type: 3}
       propertyPath: m_PlayOnAwake
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8132368270029972392, guid: 232afebed8c2e40cbb8966a84790c20a, type: 3}
+      propertyPath: inicioX
+      value: -3.031677
+      objectReference: {fileID: 0}
+    - target: {fileID: 8132368270029972392, guid: 232afebed8c2e40cbb8966a84790c20a, type: 3}
+      propertyPath: inicioY
+      value: -0.2676861
       objectReference: {fileID: 0}
     - target: {fileID: 8416326196790085360, guid: 232afebed8c2e40cbb8966a84790c20a, type: 3}
       propertyPath: m_Name
