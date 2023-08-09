@@ -103,6 +103,7 @@ GameObject:
   - component: {fileID: 5801924432763787228}
   - component: {fileID: 8352902383553667818}
   - component: {fileID: 3139147817596713749}
+  - component: {fileID: 24651085777181847}
   m_Layer: 0
   m_Name: Spear_0
   m_TagString: Untagged
@@ -271,3 +272,15 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &24651085777181847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7502643290602827180}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30e5b8dfe2d944b92ad4c1284cee3911, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
